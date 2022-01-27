@@ -1,7 +1,7 @@
 package main
 
 import (
-	"DockerVM/virtualmachines"
+	"DockerVm/virtualmachines"
 	"fmt"
 	"time"
 )
